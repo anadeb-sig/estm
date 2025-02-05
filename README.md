@@ -30,5 +30,8 @@ R4: La sécurité dans la vie d'un projet reste un processus continu.
 
 
 # Exercices 1 && 2
-Après avoir configuré et exécuté SonarQube pour votre projet GitHub, vous pouvez recevoir un lien vers l'aperçu du rapport Sonar de la première analyse.
+Lien pour la configuration du projet GitHub ci-après : 
+https://github.com/anadeb-sig/estm
+
+Après avoir configuré et exécuté SonarQube pour le projet GitHub, vous pouvez recevoir le lien vers un aperçu du rapport Sonar de la première analyse ci-après : 
 https://sonarcloud.io/organizations/anadeb-sig/projects?sort=name&search=ESTM
