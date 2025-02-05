@@ -27,3 +27,8 @@ R3: Tout le monde est responsable de la sécurité dans un projet:
 Q4: Quand doit-on se préoccuper de la sécurité dans la vie d'un projet ?
 
 R4: La sécurité dans la vie d'un projet reste un processus continu.
+
+
+# Exercices 1 && 2
+Après avoir configuré et exécuté SonarQube pour votre projet GitHub, vous pouvez recevoir un lien vers l'aperçu du rapport Sonar de la première analyse.
+https://sonarcloud.io/organizations/anadeb-sig/projects?sort=name&search=ESTM
