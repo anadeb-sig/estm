@@ -7,11 +7,6 @@
            <sonar.organization>anadeb-sig</sonar.organization>
            <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
-         
-    <groupId>com.example</groupId>
-    <artifactId>mon-projet</artifactId>
-    <version>1.0.0</version>
-    <packaging>jar</packaging>
 
          
     
