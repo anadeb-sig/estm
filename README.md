@@ -35,3 +35,6 @@ https://github.com/anadeb-sig/estm
 
 Après avoir configuré et exécuté SonarQube pour le projet GitHub, vous pouvez recevoir le lien vers un aperçu du rapport Sonar de la première analyse ci-après : 
 https://sonarcloud.io/organizations/anadeb-sig/projects?sort=name&search=ESTM
+
+# Exercice 3
+Session sauvegardée de l'analyse du code sourece de https://github.com/pjvilloud/ipi-java-350-ex zipper ci-jointe: Analyse.zip
