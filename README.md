@@ -37,4 +37,6 @@ Après avoir configuré et exécuté SonarQube pour le projet GitHub, vous pouve
 https://sonarcloud.io/organizations/anadeb-sig/projects?sort=name&search=ESTM
 
 # Exercice 3
-Session sauvegardée de l'analyse du code sourece de https://github.com/pjvilloud/ipi-java-350-ex zipper ci-jointe: Analyse.zip
+Session sauvegardée de l'analyse du code sourece de https://github.com/pjvilloud/ipi-java-350-ex zipper à téléchargez via le lien wetransfert qui s’expire le 12 février 2025 : 
+https://we.tl/t-bo8OxJQ5i6
+
