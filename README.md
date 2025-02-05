@@ -6,33 +6,24 @@
 
 Q1: Que représente pour vous la qualité logicielle ?
 
-R1: 
+R1: Sécurité du logiciel: 
+Consiste à prévoir les vulnérabilités que les ménaces pouraient exploiter afin de compromettre le bon fonctionnement d'un logiciel.
 
-Sécurité du logiciel: consite à prévoir les vulnérabilités que les ménaces pouraient exploiter pour contremettre le fonctionnement efficient du logiciel.
+Q2: Quels éléments faut-il pour avoir un logiciel de sécurisé ?
 
-Q2: Quels éléments faut-il pour avoir un logiciel de qualité ?
+R2: Les élements qui quarantissent qu'un logiciel est sécurisé:
 
-R2: 
-
-Les élement pour un logiciel sécurisé:
-
-- La confidentialité;
-- La disponibilité;
-- L'intégrité.
-- Analyse du code source avec les outils tel que: owasp zap;
+- Analyse à tout niveau du code source avec les outils adéquats (zap, OWASP_Broken_Web_Apps, Kali linux, ...);
 - Mise à jour régulière du code source;
 - Utilisation du certificat ssl pour un accès sécurisé à l'information;
+- Contrôle des accès et des permissions;
+- Détection et réaction aux ménaces;
+- code propre et sécurisé;
 
-Q3:Dans un projet, qui est responsable de la qualité ?
+Q3: Dans un projet, qui est responsable de la sécurité ?
 
-R3: 
+R3: Tout le monde est responsable de la sécurité dans un projet:
 
-Responsable de la sécurité dans un projet:
+Q4: Quand doit-on se préoccuper de la sécurité dans la vie d'un projet ?
 
-Le risk manager
-
-Q4:Quand doit-on se préoccuper de la qualité dans la vie d'un projet ?
-
-R4:
-
-La sécurité dans la vie d'un projet doit être préoccupée dès le debut.
+R4: La sécurité dans la vie d'un projet reste un processus continu.
