@@ -9,11 +9,6 @@ jobs:
   build:
     name: Build and analyze
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: read
-      packages: read
-      
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,6 +34,3 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=anadeb-sig_estm
-      - name: Update dependency graph
-        uses: advanced-security/maven-dependency-submission-action@v3
-        continue-on-error: true  # Évite l'échec du build si l'update échoue
